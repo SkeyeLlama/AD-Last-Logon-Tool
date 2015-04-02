@@ -4,6 +4,7 @@ REM ||/\- Last Logon retrieval tool -/\||
 REM ||/\-  Jon Searles - 04/01/2015 -/\||
 REM -------------------------------------
 REM [~~~Powered By: Command Injection~~~}
+REM @Skeyellama
 goto title
 
 :title
